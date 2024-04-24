@@ -1,0 +1,6 @@
+variavel,descrição,tipo,subtipo
+subject,individuos envolvidos,qualitativa,nominal
+timepoint,momentos em que as imagens foram adquiridas,qualitativa,continua
+event,tipos de eventos e experimentos,qualitativa,continua
+region,regiao do cerebro em que foi realizada a atividade,qualitativa,nominal
+sinal,Intesidade do sinal,quantitativa,continua
